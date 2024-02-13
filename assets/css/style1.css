@@ -36,19 +36,19 @@ body {
     display: none;
     padding: 15px;
     background: #EAEAEA;
-    }
+}
     
-    #tabs > div:first-of-type {
+#tabs > div:first-of-type {
     display: block;
     background: #EAEAEA;
-    }
+}
 
-    #tabs > ul > li:first-of-type a {
+#tabs > ul > li:first-of-type a {
     color: #333;
     background: #EAEAEA;
-    }
+}
 
-    p {
+p {
     line-height: 1.5em;
     margin-bottom: 1em;
-    }
+}
