@@ -7,7 +7,7 @@ body {
 	padding: 100px 0; 
 	background:#fae1dd; 
 	font-family:Arial; 
-	color:#333; 
+	color: #ffe5ec; 
 }
 
 #tabs {
@@ -25,30 +25,30 @@ body {
     height: 30px;
     line-height: 30px;
     margin-right: 2px;
-    background: #ffc2d1;
-    color: #ffe5ec;
+    background: #A2A2A2;
+    color: #CECECE;
     text-decoration: none;
     padding: 0 15px;
     border-radius: 3px 3px 0 0;
-    }
+}
 
 #tabs > div {
     display: none;
     padding: 15px;
-    background: #ffb3c6;
+    background: #EAEAEA;
+    }
+    
+    #tabs > div:first-of-type {
+    display: block;
+    background: #EAEAEA;
     }
 
-#tabs > div:first-of-type {
-    display: block;
-    background: #ffb3c6;
-}
+    #tabs > ul > li:first-of-type a {
+    color: #333;
+    background: #EAEAEA;
+    }
 
-#tabs > ul > li:first-of-type a {
-    color: #ffe5ec;
-    background: #ffb3c6;
-}
-
-p {
+    p {
     line-height: 1.5em;
     margin-bottom: 1em;
-}
+    }
