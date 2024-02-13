@@ -40,7 +40,7 @@ p {
 #tabs > div {
     padding: 15px;
     background: #EAEAEA;
-	transition: opacity 200 linear;
+	transition: opacity 200ms linear;
 }
 
 #tabs .active {
