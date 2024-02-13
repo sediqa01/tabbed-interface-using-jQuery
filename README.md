@@ -1,2 +1,6 @@
-# tabbed-interface-using-jQuery
-Practical JS project 
+# Tabbed Interface Using JQuery and Javascript
+
+A walkthrough project using Javascript and Jquery.
+
+![Tab Interface](/tab.png)
+
